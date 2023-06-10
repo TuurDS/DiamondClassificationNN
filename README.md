@@ -7,4 +7,4 @@ The dataset used for training and evaluation consists of a collection of diamond
 ##### NOTE: the datasets (.stl files) are not included in this repository because they are confidential.
 
 ## Voxelization algorithm
-We utilized a voxelization algorithm/package to convert our STL files into a voxel representation. We would like to express our gratitude to copederkoff for making this package. The implementation of their package can be found at the following GitHub repository: https://github.com/cpederkoff/stl-to-voxel
+We utilized a voxelization algorithm/package to convert our STL files into a voxel representation which has been slightly modified in this repository. We would like to express our gratitude to cpederkoff for making this package. The implementation of their package can be found at the following GitHub repository: https://github.com/cpederkoff/stl-to-voxel
